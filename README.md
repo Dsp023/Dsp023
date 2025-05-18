@@ -27,12 +27,11 @@ Stay tuned — I’ll be uploading them all here soon!
 ---
 
 ### 📫 Connect with me:
-- LinkedIn: *[Add your LinkedIn link here]*
-- Email: *[Add your professional email]*
+- Email: *nakkadevisriprasad004@gmail.com*
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NakkaDeviSriPrasad&show_icons=true&theme=radical)
+![GitHub Stats](https://github.com/Dsp023)
 <!--
 **Dsp023/Dsp023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
