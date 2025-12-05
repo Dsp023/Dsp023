@@ -2,12 +2,12 @@
 <h3 align="center">Full-Stack Learner • AI Toolmaker • Open-Source Explorer</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l2Jd7K72r7W2R6pTq/giphy.gif" width="250" />
 
-  <br/><br/>
+<img src="https://i.imgur.com/Ta6WcFD.gif" width="250" />
 
-  ✨ calm code. quiet mind.  
-  *these aren’t the bugs you’re looking for.*
+### ✨ calm code. quiet mind.  
+*these aren’t the bugs you’re looking for.*
+
 </div>
 
 ---
