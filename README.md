@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devi Sri Prasad</h1>
 <h3 align="center">Full-Stack Learner • AI Toolmaker • Open-Source Explorer</h3>
 
-<div align="center">
-
-<img src="https://i.imgur.com/Ta6WcFD.gif" width="250" />
-
-### ✨ calm code. quiet mind.  
-*these aren’t the bugs you’re looking for.*
-
-</div>
-
 ---
 
 ## 🌐 Socials
