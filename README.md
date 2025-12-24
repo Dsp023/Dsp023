@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Devi Sri Prasad</h1>
-<h3 align="center">Full-Stack Learner • AI Toolmaker • Open-Source Explorer</h3>
-
 ---
 
 ## 🌐 Socials
