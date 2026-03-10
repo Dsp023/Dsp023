@@ -30,17 +30,17 @@
 
 ## 👨‍💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=c,java,python,js,ts" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts" />
 </p>
 
 ## 🎨 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
 ## 🔧 Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ## 🗄️ Databases
@@ -50,7 +50,7 @@
 
 ## ☁️ DevOps & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,git,github,npm" />
+<img src="https://skillicons.dev/icons?i=docker,vercel,netlify,git,github" />
 </p>
 
 ---
