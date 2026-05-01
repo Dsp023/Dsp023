@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Full-Stack Developer
+ AI Systems-focused Software Developer  
 </h3>
 
 <p align="center">
