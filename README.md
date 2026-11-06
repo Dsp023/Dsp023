@@ -80,7 +80,3 @@ $ cat devi.json
 
 <br/>
 
-<!-- ═══════════════ FOOTER ═══════════════ -->
-<div align="center">
-  <img src="assets/footer.svg" width="100%" alt="Devi Sri Prasad - build calm. learn deeply. create boldly."/>
-</div>
